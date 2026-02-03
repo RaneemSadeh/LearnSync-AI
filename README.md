@@ -405,65 +405,45 @@ course_id: 1
 POST /analysis/{document_id}
 Authorization: Bearer {token}
 ```
+# The User Interface
 
-## Screenshots
+<div align="center">
 
-> Note: Add your screenshots to a `docs/screenshots/` folder and reference them here
+### ✨Main Interface✨
+<img width="800" alt="Main Interface" src="https://github.com/user-attachments/assets/5e9c490c-ee11-43b9-af9a-f4e18bfc5d17" />
 
-### Main Interface
-![Course List](docs/screenshots/courses.png)
-*Course organization dashboard*
+Course organization dashboard
 
-### Document Upload
-![Upload Interface](docs/screenshots/upload.png)
-*Multi-format file upload with progress indication*
+### ✨Document Upload✨
+<img width="800" alt="Document Upload" src="https://github.com/user-attachments/assets/eabfea49-e0d2-4c1f-a5d5-478444db1014" />
 
-### Document Analysis
-![Analysis Results](docs/screenshots/analysis.png)
-*AI-generated summary and key concepts*
+Multi-format file upload with progress indication
 
-### Quiz Generation
-![Quiz Interface](docs/screenshots/quiz.png)
-*Interactive quiz based on document content*
+### ✨Document Analysis✨
+<img width="800" alt="Document Analysis" src="https://github.com/user-attachments/assets/b2d9bc0c-c10e-49e7-a3a2-5ebc47f18072" />
 
-### Flashcards
-![Flashcard View](docs/screenshots/flashcards.png)
-*Study flashcards with term/definition pairs*
+AI-generated summary and key concepts
 
-### Arabic Interface
-![Arabic UI](docs/screenshots/arabic.png)
-*Full RTL support for Arabic language*
+### ✨The Quiz and Flashcards✨
+<img width="800" alt="Quiz and Flashcards" src="https://github.com/user-attachments/assets/6074c877-d17a-4f4c-a3a9-d7f8edbca82c" />
 
-## Contributing
+### ✨Quiz Generation✨
+<img width="800" alt="Quiz Generation" src="https://github.com/user-attachments/assets/3f4b8ef3-d724-4d87-a2b4-4242a2996125" />
 
-Contributions are welcome! Please follow these steps:
+Interactive quiz based on document content
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### ✨Flashcards✨
+<img width="800" alt="Flashcards" src="https://github.com/user-attachments/assets/254aaf28-f346-4663-bd11-94e5791df782" />
 
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Use TypeScript for all frontend code
-- Write descriptive commit messages
-- Update documentation for new features
+Study flashcards with term/definition pairs
 
-## License
+### ✨Arabic Interface✨
+<img width="800" alt="Arabic Interface" src="https://github.com/user-attachments/assets/db2a0ebb-0c7f-4e3d-b284-c5f22f3d78f4" />
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Full RTL support for Arabic language
 
-## Acknowledgments
+</div>
 
-- Google Gemini AI for powerful language processing
-- FastAPI for the modern Python web framework
-- React team for the frontend framework
-
-## Contact
-
-For questions or support, please open an issue on GitHub.
+## Thanks For Reading, Raneem Sadeh🤍✨
 
 ---
-
-**Note**: This is an educational project. Ensure compliance with your institution's academic integrity policies when using AI-generated study materials.
