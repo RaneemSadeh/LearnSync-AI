@@ -1,6 +1,13 @@
-# LearnSync AI
+<div align="center">
+
+<h1 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">👩‍💻 LearnSync AI</h1>
+<img width="800" alt="LearnSync AI" src="https://github.com/user-attachments/assets/d5e93c85-c6c5-41bc-8df6-49b89fa86ff8" />
+
+
 
 A bilingual (Arabic/English) AI-powered educational platform that helps students organize study materials and generate summaries, quizzes, and flashcards using Google's Gemini AI.
+
+</div>
 
 ## Table of Contents
 - [Overview](#overview)
