@@ -19,8 +19,7 @@ A bilingual (Arabic/English) AI-powered educational platform that helps students
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
 - [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+
 
 ## Overview
 
@@ -451,6 +450,8 @@ Full RTL support for Arabic language
 
 </div>
 
+<div align="center">
+
 ## Thanks For Reading, Raneem Sadeh🤍✨
 
----
+</div>
