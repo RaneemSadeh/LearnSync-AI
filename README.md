@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">👩‍💻 LearnSync AI</h1>
-<img width="800" alt="LearnSync AI" src="https://github.com/RaneemSadeh/LearnSync-AI/blob/main/docs/screenshots/Recording%202026-02-03%20195527.gif" />
+<img width="800" alt="LearnSync AI" src="docs/screenshots/Recording 2026-02-03 195527.gif" />
 
 
 
